@@ -1,0 +1,6 @@
+data
+papers
+models/dcenet/old
+*.ipynb
+.fuse*
+*.jpg
