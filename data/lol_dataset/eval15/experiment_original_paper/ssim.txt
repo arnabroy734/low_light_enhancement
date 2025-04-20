@@ -1,0 +1,1 @@
+Overall ssim over evaluation set 0.6783052722613017

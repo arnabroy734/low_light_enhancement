@@ -1,6 +1,10 @@
-data
+data/samples
+data/lol_dataset/our485
 papers
 models/dcenet/old
 *.ipynb
 .fuse*
 *.jpg
+models/old
+models/original_exp
+
